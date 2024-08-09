@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18915057364",
+    "project_id": "ecommer-f7de4",
+    "storage_bucket": "ecommer-f7de4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18915057364:android:1ebf2b08ed41f257ab2541",
+        "android_client_info": {
+          "package_name": "com.ecommerceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAReauUaUEMDKqOqmTbHqN_C4jC-y16Mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
